@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Bullet
+  - Enemy
+  - Ladder
+  - FallDetector
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2794233289
+    locked: 0
+  - name: City-Shadow
+    uniqueID: 3102629851
+    locked: 0
+  - name: City
+    uniqueID: 3324430081
+    locked: 0
+  - name: Foreground
+    uniqueID: 3248305467
+    locked: 0
+  - name: Player
+    uniqueID: 1853704569
+    locked: 0
+  - name: Ground
+    uniqueID: 3087205855
+    locked: 0
+  - name: Bullete
+    uniqueID: 3588666115
+    locked: 0
+  - name: Enemy
+    uniqueID: 3610244667
+    locked: 0
