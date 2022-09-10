@@ -29,7 +29,7 @@
 ![Example screenshot](./screenshot-gameplay.png)
 
 ## Project Status
-Project is: _complete._ <!-- / _complete_ / _no longer being worked on_. reason ? -->
+Project is: _in progress._ <!-- / _complete_ / _no longer being worked on_. reason ? -->
 
 ## Room for Improvement
 
