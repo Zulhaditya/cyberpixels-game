@@ -26,7 +26,7 @@
 - Save progress
 
 ## Screenshots
-![Example screenshot](./img/personal-note.png)
+![Example screenshot](./screenshot-gameplay.png)
 
 ## Project Status
 Project is: _complete._ <!-- / _complete_ / _no longer being worked on_. reason ? -->
