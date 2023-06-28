@@ -20,10 +20,10 @@
 - Unity - version 2021
 
 ## Features
-- Single player
-- Highscore system
-- Kill the enemy to get score
-- Save progress
+- Single player.
+- Highscore system.
+- Kill the enemy to get score.
+- Save progress.
 
 ## Screenshots
 ![Example screenshot](./screenshot-gameplay.png)
