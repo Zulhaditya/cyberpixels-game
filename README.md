@@ -43,4 +43,5 @@ To do:
 - Fix some bugs when player shooting the enemy.
 
 ## Contact
-Created by [@Zulhaditya](https://itsmyportofolio.netlify.app/) - feel free to contact me!
+
+Created by [@Zulhaditya](https://zulhaditya.vercel.app) - feel free to contact me!
